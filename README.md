@@ -1,16 +1,13 @@
-### Hi there 👋
+# sqchaofan
 
-<!--
-**sqchaofan/sqChaofan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/sqchaofan">
+  <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqchaofan&count_private=true&layout=compact&theme=dark&hide=vue&langs_count=7" />
+</a>
 
-Here are some ideas to get you started:
+## 👀Interested in
+### Languages and Frameworks
+[![Languages, Frameworks](https://skillicons.dev/icons?i=py,ts,js,css,html,pytorch,react,vue&theme=dark)](https://skillicons.dev)
+- Image Processing, Chrome Extentions, Web Applications, etc
+### Tools, etc
+[![etc](https://skillicons.dev/icons?i=windows,linux,vscode,neovim&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
