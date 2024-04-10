@@ -3,8 +3,8 @@
 </a>
 
 ## 👀Interested in
-[![Languages, Frameworks](https://skillicons.dev/icons?i=py,ts,js,css,html,aiscript,pytorch,react,vue&theme=dark)](https://skillicons.dev)
+[![Languages, Frameworks](https://skillicons.dev/icons?i=py,ts,js,css,html,pytorch,react&theme=dark)](https://skillicons.dev)
 
-[![etc](https://skillicons.dev/icons?i=windows,ubuntu,vscode,neovim,misskey&theme=dark)](https://skillicons.dev)
+[![etc](https://skillicons.dev/icons?i=windows,ubuntu,vscode,neovim&theme=dark)](https://skillicons.dev)
 
 - Image Processing, Chrome Extentions, Web Applications, etc
