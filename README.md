@@ -3,7 +3,7 @@
 </a>
 
 ## 👀Interested in
-[![Languages, Frameworks](https://skillicons.dev/icons?i=py,ts,js,css,html,pytorch,react&theme=dark)](https://skillicons.dev)
+[![Languages, Frameworks](https://skillicons.dev/icons?i=py,ts,rust,js,css,html,pytorch,react&theme=dark)](https://skillicons.dev)
 
 [![etc](https://skillicons.dev/icons?i=ubuntu,vscode,neovim&theme=dark)](https://skillicons.dev)
 
